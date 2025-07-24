@@ -10,3 +10,5 @@
 - [map()](./Python/map_function.md)
 - [scope](./Python/scope.md)
 - [unpacking](./Python/unpacking.md)
+- [method_vs_function](./Python/method_vs_function.md)
+- [for_vs_listcomp](./Python/for_vs_listcomp.md)
