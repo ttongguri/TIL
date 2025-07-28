@@ -13,3 +13,5 @@
 - [method_vs_function](./Python/method_vs_function.md)
 - [for_vs_listcomp](./Python/for_vs_listcomp.md)
 - [dict.pop('old_key')](./Python/dict.pop('old_key').md)
+
+ 
