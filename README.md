@@ -13,6 +13,7 @@
 - [method_vs_function](./Python/method_vs_function.md)
 - [for_vs_listcomp](./Python/for_vs_listcomp.md)
 - [dict.pop('old_key')](./Python/dict.pop('old_key').md)
+- [set.discard vs remove vs pop](./Python/set_discard_remove_pop_method.md)
 
 ## [Network](./Network/)
 - [Layer & Ethernet](./Network/layer%20&%20Ethernet.md)    
