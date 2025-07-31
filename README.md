@@ -15,5 +15,6 @@
 - [dict.pop('old_key')](./Python/dict.pop('old_key').md)
 - [set.discard vs remove vs pop](./Python/set_discard_remove_pop_method.md)
 - [dir(object)/help(object)](./Python/python_dir_help.md)
+- [MRO super() overriding](./Python/MRO_super()_overriding.md)
 ## [Network](./Network/)
 - [Layer & Ethernet](./Network/layer%20&%20Ethernet.md)    
