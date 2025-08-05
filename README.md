@@ -17,5 +17,9 @@
 - [dir(object)/help(object)](./Python/python_dir_help.md)
 - [MRO super() overriding](./Python/MRO_super()_overriding.md)
 - [pandas_np_pd_plt](./Python/pandas_np_pd_plt.md)
+
 ## [Network](./Network/)
 - [Layer & Ethernet](./Network/layer%20&%20Ethernet.md)    
+
+## [Algorithm](./Algorithm/)
+- [Sort & Search](./Algorithm/sort_search.md)
