@@ -23,3 +23,4 @@
 
 ## [Algorithm](./Algorithm/)
 - [Sort & Search](./Algorithm/sort_search.md)
+- [Delta & Subset](./Algorithm/delta_subset.md)
