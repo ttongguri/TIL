@@ -25,3 +25,4 @@
 - [Sort & Search](./Algorithm/sort_search.md)
 - [Delta & Subset](./Algorithm/delta_subset.md)
 - [Delta & Binary_search](./Algorithm/Delta_Binary_search.md)
+- [Palindrome](./Algorithm/palindrome.md)
