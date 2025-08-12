@@ -26,3 +26,5 @@
 - [Delta & Subset](./Algorithm/delta_subset.md)
 - [Delta & Binary_search](./Algorithm/Delta_Binary_search.md)
 - [Palindrome](./Algorithm/palindrome.md)
+- [KMP_Boyer-Moore](./Algorithm/KMP_Boyer-Moore.md)
+- [Stack](./Algorithm/stack.md)
