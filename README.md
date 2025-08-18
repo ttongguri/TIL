@@ -20,6 +20,7 @@
 
 ## [Network](./Network/)
 - [Layer & Ethernet](./Network/layer%20&%20Ethernet.md)    
+- [Bit](./Network/network_bits.md)
 
 ## [Algorithm](./Algorithm/)
 - [Sort & Search](./Algorithm/sort_search.md)
