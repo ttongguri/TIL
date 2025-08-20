@@ -31,4 +31,4 @@
 - [Stack](./Algorithm/stack.md)
 - [DFS_DP](./Algorithm/dfs_dp.md)
 - [Post_fix](./Algorithm/postfix_notation.md)
--today
+- [Queue](./Algorithm/queue.md)
