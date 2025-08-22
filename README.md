@@ -33,3 +33,4 @@
 - [Post_fix](./Algorithm/postfix_notation.md)
 - [Queue](./Algorithm/queue.md)
 - [BFS](./Algorithm/bfs.md)
+- [Tree](./Algorithm/tree_data_structure.md)
