@@ -38,3 +38,4 @@
 
 ## [Web](./Web/)
 - [Semantic & OOCSS](./Web/html_css_oocss_semantic.md)
+- [Css position guide](./Web/css_position_guide.md)
