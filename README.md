@@ -36,6 +36,7 @@
 - [Tree](./Algorithm/tree_data_structure.md)
 - [DFS_heap](./Algorithm/dfs_heap.md)
 - [Complexity](./Algorithm/complexity_analysis.md)
+- [Bit operation](./Algorithm/bit_operations.md)
 
 ## [Web](./Web/)
 - [Semantic & OOCSS](./Web/html_css_oocss_semantic.md)
