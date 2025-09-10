@@ -37,7 +37,7 @@
 - [DFS_heap](./Algorithm/dfs_heap.md)
 - [Complexity](./Algorithm/complexity_analysis.md)
 - [Bit operation](./Algorithm/bit_operations.md)
-
+- [Quick sort & Merge sort](./Algorithm/merge_quick_sort.md)
 ## [Web](./Web/)
 - [Semantic & OOCSS](./Web/html_css_oocss_semantic.md)
 - [Css position guide](./Web/css_position_guide.md)
