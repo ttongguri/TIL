@@ -47,3 +47,6 @@
 - [Date set level](./SQL/Data_set_level.md)
 - [to_date()](./SQL/to_date().md)
 - [with clause](./SQL/with_clause.md)
+
+## [Django](./Django/)
+- [Django Templates System & Language](./Django/django_templates.md)
