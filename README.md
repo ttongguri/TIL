@@ -51,3 +51,4 @@
 ## [Django](./Django/)
 - [Django Templates System & Language](./Django/django_templates.md)
 - [Model](./Django/model.md)
+- [ORM](./Django/ORM.md)
