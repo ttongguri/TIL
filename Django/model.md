@@ -1,6 +1,4 @@
-# TIL - 2025-09-23
-
-## 오늘 배운 내용: Django의 Model, Field, Migration, Admin
+## Django의 Model, Field, Migration, Admin
 
 ### 1. Model
 - Django에서 **데이터베이스 테이블을 표현하는 클래스**.
