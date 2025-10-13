@@ -53,3 +53,8 @@
 - [Django Templates System & Language](./Django/django_templates.md)
 - [Model](./Django/model.md)
 - [ORM](./Django/ORM.md)
+
+## [A.I](./AI/)
+- [AI & ML](./AI/AI%20&%20ML.ipynb)
+- [Supervised Learning](./AI/Supervised%20Learning.ipynb)
+- [Cross-Validation](./AI/Cross-Validation.ipynb)
