@@ -58,3 +58,7 @@
 - [AI & ML](./AI/AI%20&%20ML.ipynb)
 - [Supervised Learning](./AI/Supervised%20Learning.ipynb)
 - [Cross-Validation](./AI/Cross-Validation.ipynb)
+- [Unsupervised Learning](./AI/Unsupervised%20Learning.ipynb)
+
+## [Data](./Data/)
+- [Pandas & Numpy](./Data/pandas_numpy_command.md)
