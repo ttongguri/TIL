@@ -70,3 +70,27 @@ Beam Search
 - Bottleneck problem이란?
   - 인코더는 입력 문장 전체를 하나의 벡터로 요약하는데, 마지막 hidden state에 문장의 모든 의미 정보 담김
   - 고정 길이 벡터 하나에 모든 문장 의미를 압축하면 정보 손실 발생 -> bottlenck problem
+
+```Attention```
+- Attention은 디코더가 단어를 생성할 때, 인코더 전체 hidden state 중 필요한 부분을 직접 참조
+- 매 타임스텝마다 "어떤 단어/구절에 집중할지" 가중치로 계산해 bottleneck 문제 해결
+
+```Attention의 효과```
+- Attention mechanism은 많은 장점이 존재한다.
+  1. NMT 성능 향상
+    - 디코더가 소스 문장 전체 아닌 필요한 부분에 집중
+  2. Bottleneck Problem 해결
+    - 디코더가 인코더의 모든 hidden states에 직접 접근할 수 있다.
+  3. Vanishing Gradient Problem 약화
+    - 멀리 떨어진 단어도 직접 연결할 수 있게 해준다.
+
+보틀넥은 세 줄 요약하면서 생긴 형식 한계 문제이고 vanishing gradient는 관련 적은 요소가 디코딩 과정에서 0수준으로 바뀌는 문제? => 보틀넥은 디코더에 전달하는 과정(순전파 중), 배니싱은 역전파 학습 중 발생
+
+```해석 가능성(Interpretability)```
+- Attention 분포를 보면, decoder가 어떤 단어를 생성할 때, 입력 문장 어느 부분에 집중했는지 확인 가능
+- 모델이 내부적으로 참고한 근거를 사람이 파악할 수 있음
+    -> 모델의 의사결정 과정을 해석할 수 있는 단서
+
+```정렬(Alignment)```
+- 기계번역은 전통적으로 단어 alignment 모델을 따로 학습해야 했음
+- attention을 decoder가 필요한 입력 단어에 자동으로 집중 하기 때문에 단어 간 매핑 관계를 자연스레 학습
