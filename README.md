@@ -59,6 +59,8 @@
 - [Supervised Learning](./AI/Supervised%20Learning.ipynb)
 - [Cross-Validation](./AI/Cross-Validation.ipynb)
 - [Unsupervised Learning](./AI/Unsupervised%20Learning.ipynb)
+- [RNN & LSTM](./AI/RNN%20&%20LSTM.md)
+- [Language Model](./AI/Language%20Model.md)
 
 ## [Data](./Data/)
 - [Pandas & Numpy](./Data/pandas_numpy_command.md)
