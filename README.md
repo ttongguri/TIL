@@ -61,6 +61,7 @@
 - [Unsupervised Learning](./AI/Unsupervised%20Learning.ipynb)
 - [RNN & LSTM](./AI/RNN%20&%20LSTM.md)
 - [Language Model](./AI/Language%20Model.md)
+- [Transformer](./AI/Transformer.md)
 
 ## [Data](./Data/)
 - [Pandas & Numpy](./Data/pandas_numpy_command.md)
